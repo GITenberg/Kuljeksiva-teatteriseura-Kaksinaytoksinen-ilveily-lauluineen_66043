@@ -1,0 +1,29 @@
+_repo: Kuljeksiva-teatteriseura-Kaksinaytoksinen-ilveily-lauluineen_66043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanche, August
+    alias: Blanche, August Teodor
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '31667'
+    url: http://www.gutenberg.org/2009/agents/31667
+    wikipedia:
+    - https://en.wikipedia.org/wiki/August_Blanche
+    - https://sv.wikipedia.org/wiki/August_Blanche
+    - https://fi.wikipedia.org/wiki/August_Blanche
+description: ''
+gutenberg_issued: '2021-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66043'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kuljeksiva teatteriseura
+
+  Kaksinäytöksinen ilveily lauluineen'
+url: http://www.gutenberg.org/ebooks/66043
